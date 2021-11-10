@@ -1,4 +1,5 @@
 Creación de nuevo proyecto .txt
 para compartir y testear github y git
 vamos de nuevo con lo de compartir texto
-la tercera es la vencida
+la tercera es la vencida. Y así fue.
+Logro desbloqueado

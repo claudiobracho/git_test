@@ -1,0 +1,2 @@
+Creación de nuevo proyecto .txt
+para compartir y testear github y git
